@@ -1,0 +1,11 @@
+E:\Sviluppo\2020\NET\Standard\LowLayer\Windows\RawInput\bin\Debug\GESAP.Std.LowLayer.Windows.RawInput.dll
+E:\Sviluppo\2020\NET\Standard\LowLayer\Windows\RawInput\bin\Debug\GESAP.Std.LowLayer.Windows.RawInput.pdb
+E:\Sviluppo\2020\NET\Standard\LowLayer\Windows\RawInput\obj\Debug\RawInput.csproj.CoreCompileInputs.cache
+E:\Sviluppo\2020\NET\Standard\LowLayer\Windows\RawInput\obj\Debug\GESAP.Std.LowLayer.Windows.RawInput.dll
+E:\Sviluppo\2020\NET\Standard\LowLayer\Windows\RawInput\obj\Debug\GESAP.Std.LowLayer.Windows.RawInput.pdb
+E:\Sviluppo\2020\NET\Standard\LowLayer\Windows\RawInput\obj\Debug\RawInput.csproj.AssemblyReference.cache
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\RawInput\bin\Debug\GESAP.Std.LowLayer.Windows.RawInput.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\RawInput\bin\Debug\GESAP.Std.LowLayer.Windows.RawInput.pdb
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\RawInput\obj\Debug\RawInput.csproj.CoreCompileInputs.cache
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\RawInput\obj\Debug\GESAP.Std.LowLayer.Windows.RawInput.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\RawInput\obj\Debug\GESAP.Std.LowLayer.Windows.RawInput.pdb

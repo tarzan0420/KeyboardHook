@@ -1,0 +1,302 @@
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.exe
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\icon.ico
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.deps.json
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.runtimeconfig.json
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.runtimeconfig.dev.json
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\GESAPRemoting.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.pdb
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Antiforgery.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authorization.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.DataProtection.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Features.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Localization.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.ObjectPool.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.WebEncoders.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Net.Http.Headers.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\System.Management.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Windows.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Licensing.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Core.LowLayer.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.pdb
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Windows.pdb
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Licensing.pdb
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Core.LowLayer.pdb
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Stamp.resources
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.csproj.GenerateResource.cache
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.AssemblyInfoInputs.cache
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.AssemblyInfo.cs
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.csproj.CoreCompileInputs.cache
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\GESAPRemoting.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.pdb
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.genruntimeconfig.cache
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.csproj.AssemblyReference.cache
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\HidSharpCore.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\HidLibrary.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Windows.RawInput.dll
+E:\Sviluppo\2020\Progetto\Release\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Windows.RawInput.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.exe
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\icon.ico
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.deps.json
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.runtimeconfig.json
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.runtimeconfig.dev.json
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\ref\GESAPRemoting.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\HidLibrary.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\HidSharpCore.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Antiforgery.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authorization.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.DataProtection.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Features.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Localization.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.ObjectPool.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.WebEncoders.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Net.Http.Headers.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\System.Management.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Windows.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Windows.RawInput.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Licensing.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Core.LowLayer.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Windows.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Windows.RawInput.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Licensing.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAP.Core.LowLayer.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.csproj.AssemblyReference.cache
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Stamp.resources
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.csproj.GenerateResource.cache
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.AssemblyInfoInputs.cache
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.AssemblyInfo.cs
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.csproj.CoreCompileInputs.cache
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\ref\GESAPRemoting.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.genruntimeconfig.cache
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.Properties.Resources.resources
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.csproj.CopyComplete
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.Properties.Resources.resources
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Stamp.resources
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.csproj.GenerateResource.cache
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.AssemblyInfoInputs.cache
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.AssemblyInfo.cs
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.csproj.CoreCompileInputs.cache
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\ref\GESAPRemoting.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.pdb
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.exe
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\icon.ico
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.deps.json
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.runtimeconfig.json
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.runtimeconfig.dev.json
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\ref\GESAPRemoting.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.pdb
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\HidLibrary.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\HidSharpCore.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Antiforgery.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authorization.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.DataProtection.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Features.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Localization.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.ObjectPool.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.WebEncoders.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Net.Http.Headers.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\System.Management.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.genruntimeconfig.cache
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.exe
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\icon.ico
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.deps.json
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.runtimeconfig.json
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.runtimeconfig.dev.json
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\ref\GESAPRemoting.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\GESAPRemoting.pdb
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\HidLibrary.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\HidSharpCore.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Antiforgery.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authorization.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.DataProtection.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Http.Features.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Localization.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.ObjectPool.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Extensions.WebEncoders.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Microsoft.Net.Http.Headers.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\System.Management.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.Properties.Resources.resources
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Stamp.resources
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.csproj.GenerateResource.cache
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.AssemblyInfoInputs.cache
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.AssemblyInfo.cs
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.csproj.CoreCompileInputs.cache
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\obj\Debug\net5.0-windows\ref\GESAPRemoting.dll
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.pdb
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.genruntimeconfig.cache
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting_Modify\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.csproj.AssemblyReference.cache
+E:\Workspaces\C++, C#_Work\Keyboard_Hid\Remoting\WinFormsApp1\obj\Debug\net5.0-windows\GESAPRemoting.csproj.AssemblyReference.cache

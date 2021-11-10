@@ -1,0 +1,12 @@
+C:\Users\gesap\Desktop\rawinput_latest\rawinput latest\RawInput\bin\x86\Debug\RawInput.dll
+C:\Users\gesap\Desktop\rawinput_latest\rawinput latest\RawInput\bin\x86\Debug\RawInput.pdb
+C:\Users\gesap\Desktop\rawinput_latest\rawinput latest\RawInput\obj\x86\Debug\RawInput.csproj.CoreCompileInputs.cache
+C:\Users\gesap\Desktop\rawinput_latest\rawinput latest\RawInput\obj\x86\Debug\RawInput.dll
+C:\Users\gesap\Desktop\rawinput_latest\rawinput latest\RawInput\obj\x86\Debug\RawInput.pdb
+C:\Users\gesap\Desktop\rawinput_latest\rawinput latest\RawInput\obj\x86\Debug\RawInput.csproj.AssemblyReference.cache
+E:\Sviluppo\2020\NET\Standard\LowLayer\Windows\RawInput\bin\x86\Debug\GESAP.Std.LowLayer.Windows.RawInput.dll
+E:\Sviluppo\2020\NET\Standard\LowLayer\Windows\RawInput\bin\x86\Debug\GESAP.Std.LowLayer.Windows.RawInput.pdb
+E:\Sviluppo\2020\NET\Standard\LowLayer\Windows\RawInput\obj\x86\Debug\RawInput.csproj.AssemblyReference.cache
+E:\Sviluppo\2020\NET\Standard\LowLayer\Windows\RawInput\obj\x86\Debug\RawInput.csproj.CoreCompileInputs.cache
+E:\Sviluppo\2020\NET\Standard\LowLayer\Windows\RawInput\obj\x86\Debug\GESAP.Std.LowLayer.Windows.RawInput.dll
+E:\Sviluppo\2020\NET\Standard\LowLayer\Windows\RawInput\obj\x86\Debug\GESAP.Std.LowLayer.Windows.RawInput.pdb

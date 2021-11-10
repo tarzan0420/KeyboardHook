@@ -1,0 +1,73 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>GESAPRemoting</AssemblyName>
+    <RootNamespace>GESAPRemoting</RootNamespace>
+    <Authors>Andrea Lando</Authors>
+    <Company>GESAP Software</Company>
+    <Product>GESAP Remoting</Product>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="hidlibrary" Version="3.3.40" />
+    <PackageReference Include="HidSharpCore" Version="1.2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="5.0.11" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="System.Management" Version="5.0.0" />
+    <PackageReference Include="System.Runtime.Caching" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="GESAP.Std.LowLayer">
+      <HintPath>bin\Debug\net5.0-windows\GESAP.Std.LowLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="GESAP.Std.LowLayer.Licensing">
+      <HintPath>bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="GESAP.Std.LowLayer.Windows">
+      <HintPath>bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="GESAP.Std.LowLayer.Windows.RawInput">
+      <HintPath>bin\Debug\net5.0-windows\GESAP.Std.LowLayer.Windows.RawInput.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="icon.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

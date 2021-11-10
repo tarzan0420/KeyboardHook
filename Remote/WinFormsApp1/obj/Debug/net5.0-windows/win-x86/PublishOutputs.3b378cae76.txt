@@ -1,0 +1,17 @@
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\GESAPRemoting.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\icon.ico
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\clrcompression.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\clrjit.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\coreclr.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\mscordaccore.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\D3DCompiler_47_cor3.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\PenImc_cor3.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\PresentationNative_cor3.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\vcruntime140_cor3.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\wpfgfx_cor3.dll
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\GESAP.Std.LowLayer.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\GESAP.Std.LowLayer.Windows.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\GESAP.Std.LowLayer.Windows.RawInput.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\GESAP.Std.LowLayer.Licensing.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\GESAP.Core.LowLayer.pdb
+E:\Sviluppo\2020\Progetto\Release\Remoting\WinFormsApp1\bin\publish\GESAPRemoting.exe

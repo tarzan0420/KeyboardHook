@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GESAPRemoting.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Reader1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1180,123,0</Value>
+    </Setting>
+    <Setting Name="Reader2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1180,123,1,10</Value>
+    </Setting>
+    <Setting Name="Reader3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ApiEmployee" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://212.237.12.31:8013</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
